@@ -1,0 +1,15 @@
+2.37 | chinol | 01/08/20 | RABAT
+2.761 | spidi | 01/08/20 | PRETORIA
+74.233 | ida | 01/08/20 | MOSCOW
+64.407 | ida | 01/12/20 | NEW DELHI
+30.545 | ida | 01/12/20 | BUDAPEST
+132.556 | bob | 01/12/20 | NGERULMUD
+198.522 | portek | 01/12/20 | PORT OF SPAIN
+27.101 | ida | 01/12/20 | STOCKHOLM
+271.668 | malgorzata  | 01/13/20 | PORT OF SPAIN
+69.115 | małgorzata | 01/13/20 | YEREVAN
+74.635 | małgorzata | 01/13/20 | CANBERRA
+75.749 | k | 01/13/20 | CASTRIES
+195.887 | kuki | 01/13/20 | KUALA LUMPUR
+89.765 | lolo | 01/13/20 | BANGKOK
+34.064 | lolo | 01/14/20 | NIAMEY
